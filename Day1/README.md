@@ -1,6 +1,6 @@
 # 📓 Zomansta Development Journal
 
-## 📅 Day 01 – June 30, 2026
+## 📅 Day 01 
 
 ---
 
