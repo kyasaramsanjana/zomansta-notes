@@ -386,16 +386,3 @@ Completed the initial backend setup and successfully pushed the project to GitHu
 
 ---
 
-# 🎯 Tomorrow's Goal
-
-- Create User Model
-- Design User Schema
-- Build Register API
-- Build Login API
-- Learn Password Hashing with bcryptjs
-
----
-
-# ⭐ Biggest Learning Today
-
-A well-planned architecture makes future development much easier. Spending time organizing the project at the beginning helps keep the codebase clean, scalable, and maintainable as new features are added.
