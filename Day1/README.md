@@ -377,12 +377,3 @@ Helmet helps secure Express applications by setting various HTTP security header
 ## Why create separate folders?
 
 Separating responsibilities makes the application easier to maintain, debug, test, and scale.
-
----
-
-# 📝 Git Progress
-
-Completed the initial backend setup and successfully pushed the project to GitHub.
-
----
-
